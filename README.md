@@ -1,5 +1,5 @@
 # my_game
 ## my new project on python
-'''bash
+```bash
 python main.py
-'''
+```
